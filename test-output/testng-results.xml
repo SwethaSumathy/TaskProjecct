@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-18T18:16:14 IST" name="Default suite" finished-at="2023-05-18T18:16:40 IST" duration-ms="26207">
+    <groups>
+    </groups>
+    <test started-at="2023-05-18T18:16:14 IST" name="Default test" finished-at="2023-05-18T18:16:40 IST" duration-ms="26207">
+      <class name="TestLayer.ObjectC">
+        <test-method is-config="true" signature="project()[pri:0, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:14 IST" name="project" finished-at="2023-05-18T18:16:18 IST" duration-ms="4566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- project -->
+        <test-method signature="Obj()[pri:0, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:18 IST" name="Obj" finished-at="2023-05-18T18:16:18 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Obj -->
+        <test-method signature="boo()[pri:1, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:18 IST" name="boo" finished-at="2023-05-18T18:16:22 IST" duration-ms="3645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- boo -->
+        <test-method signature="doo()[pri:2, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:22 IST" name="doo" finished-at="2023-05-18T18:16:29 IST" duration-ms="7297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doo -->
+        <test-method signature="price()[pri:3, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:29 IST" name="price" finished-at="2023-05-18T18:16:29 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- price -->
+        <test-method signature="flight()[pri:4, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:29 IST" name="flight" finished-at="2023-05-18T18:16:33 IST" duration-ms="3496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flight -->
+        <test-method signature="news()[pri:5, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:33 IST" name="news" finished-at="2023-05-18T18:16:33 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- news -->
+        <test-method signature="total()[pri:6, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:33 IST" name="total" finished-at="2023-05-18T18:16:33 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- total -->
+        <test-method signature="finish()[pri:7, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:33 IST" name="finish" finished-at="2023-05-18T18:16:35 IST" duration-ms="1765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method signature="valid()[pri:8, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:35 IST" name="valid" finished-at="2023-05-18T18:16:38 IST" duration-ms="3050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid -->
+        <test-method signature="end()[pri:9, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:38 IST" name="end" finished-at="2023-05-18T18:16:39 IST" duration-ms="1051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method signature="Report()[pri:10, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:39 IST" name="Report" finished-at="2023-05-18T18:16:39 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Report -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:TestLayer.ObjectC@1e0b4072]" started-at="2023-05-18T18:16:39 IST" name="quit" finished-at="2023-05-18T18:16:40 IST" duration-ms="936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- TestLayer.ObjectC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
